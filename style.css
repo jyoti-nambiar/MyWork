@@ -254,3 +254,10 @@ line-height: 20px;
 
     display: none;
 }
+
+.navbar--menu {
+ 
+ display: flex;
+ justify-content:space-around ;
+ align-items: center;
+}
